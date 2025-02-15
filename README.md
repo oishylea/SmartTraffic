@@ -1,3 +1,5 @@
+  <p align="center"><img src="image/border.jpg" alt="Header" width="120%" /></p>
+
 # Smart Traffic Management System
 
 ## Overview
